@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "react_project",
+			"path": "../../.."
+		},
+		{
+			"name": "front",
+			"path": "../../../../../git_snaily/front"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
